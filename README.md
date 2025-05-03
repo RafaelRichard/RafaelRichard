@@ -1,12 +1,19 @@
-<h1 align="center">Olá, eu sou o Rafael Richard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Efeito de onda SVG futurista no topo -->
+<p align="center">
+  <svg width="100%" height="100" viewBox="0 0 1200 100" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0,0 C300,100 900,0 1200,100 L1200,0 L0,0 Z" fill="#183153" opacity="0.8"></path>
+  </svg>
+</p>
+
+<h1 align="center" style="color:#00e1ff; font-family: 'Poppins', sans-serif; letter-spacing:2px;">Olá, eu sou o Rafael Richard <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="imagens/eu.jpg" alt="Rafael Richard" width="150" style="border-radius: 50%; box-shadow: 0 0 20px #00e1ff;">
+  <img src="imagens/eu.jpg" alt="Rafael Richard" width="150" style="border-radius: 50%; box-shadow: 0 0 30px #00e1ff;">
 </p>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack em formação</b> <br/>
-  <i>Foco em soluções inovadoras, tecnologia de ponta e experiência de usuário!</i>
+  <b style="color:#00e1ff; font-size:1.2em;">Desenvolvedor Full Stack em formação</b> <br/>
+  <i style="color:#b3e0ff;">Foco em soluções inovadoras, tecnologia de ponta e experiência de usuário!</i>
 </p>
 
 ---
@@ -32,20 +39,6 @@
 ## 🛠️ Minhas Habilidades
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,angular,typescript,django,python,react,nextjs" />
 </p>
 
@@ -63,7 +56,7 @@
 
 ## 💡 Sobre mim
 
-> Sou um desenvolvedor proativo, comprometido e apaixonado por tecnologia, sempre em busca de novos conhecimentos e desafios que impulsionem meu crescimento profissional. Tenho facilidade para trabalhar em equipe, adaptar-me a diferentes ambientes e aprender novas tecnologias com rapidez. Dedico-me integralmente a cada projeto, focando sempre na entrega de soluções eficientes e de alta qualidade. Atualmente, estou concentrado em aprimorar minhas habilidades em desenvolvimento web, com ênfase em tecnologias como React, Next, TypeScript, Angular e C#.
+> <span style="color:#00e1ff;">Sou um desenvolvedor proativo, comprometido e apaixonado por tecnologia, sempre em busca de novos conhecimentos e desafios que impulsionem meu crescimento profissional. Tenho facilidade para trabalhar em equipe, adaptar-me a diferentes ambientes e aprender novas tecnologias com rapidez. Dedico-me integralmente a cada projeto, focando sempre na entrega de soluções eficientes e de alta qualidade. Atualmente, estou concentrado em aprimorar minhas habilidades em desenvolvimento web, com ênfase em tecnologias como React, Next, TypeScript, Angular e C#.</span>
 
 ---
 
@@ -74,6 +67,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelRichard&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RafaelRichard&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
@@ -90,5 +86,6 @@
 ---
 
 <p align="center">
-  <b>Obrigado por visitar meu perfil! Sinta-se à vontade para conectar-se e trocar ideias sobre tecnologia e inovação 🚀</b>
+  <b style="color:#00e1ff; font-size:1.1em;">Obrigado por visitar meu perfil! Sinta-se à vontade para conectar-se e trocar ideias sobre tecnologia e inovação 🚀</b>
+</p>
 </p>
