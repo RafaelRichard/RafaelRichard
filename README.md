@@ -4,8 +4,9 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&color=00E1FF&center=true&vCenter=true&lines=Olá%2C+eu+sou+o+Rafael+Richard+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+formação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&color=00E1FF&center=true&vCenter=true&height=60&lines=Olá%2C+eu+sou+o+Rafael+Richard+%F0%9F%91%8B;Desenvolvedor+Full+Stack+em+formação" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <b style="color:#00e1ff; font-size:1.2em;">🚀 Foco em soluções inovadoras e tecnologia de ponta</b><br/>
