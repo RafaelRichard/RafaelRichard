@@ -74,9 +74,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelRichard&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RafaelRichard&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
