@@ -2,7 +2,6 @@
   <img src="https://ishan-rest.vercel.app/svg/banner/blackhole/RafaelRichard" width="100%" alt="blackhole banner" />
 </p>
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&color=00E1FF&center=true&height=100&lines=Olá%2C+eu+sou+o+Rafael+Richard+%F0%9F%91%8B;Desenvolvedor+Full+Stack" alt="Typing SVG" />
 </p>
@@ -57,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RafaelRichard&theme=tokyo-night&hide_border=true" alt="Atividade no GitHub" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelRichard&theme=tokyo-night&hide_border=true" alt="Atividade no GitHub" />
 </p>
 
 ---
